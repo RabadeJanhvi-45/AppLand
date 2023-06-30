@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.8409f4e2.css",
+    "main.js": "/landingpage/static/js/main.7c69ed93.js",
+    "static/media/background.png": "/landingpage/static/media/background.dd792ef68aace761f47a.png",
+    "static/media/about.png": "/landingpage/static/media/about.0290bb5a48c48e1b374a.png",
+    "static/media/presentation.png": "/landingpage/static/media/presentation.0a05be7188f30fc2ef14.png",
+    "static/media/download.png": "/landingpage/static/media/download.52e6d6c5be1ea7a93af6.png",
+    "static/media/bg1.png": "/landingpage/static/media/bg1.6e4c83e918c1f5fe0b70.png",
+    "static/media/feature_2.png": "/landingpage/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/landingpage/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/feature_3.png": "/landingpage/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "static/media/logo.png": "/landingpage/static/media/logo.2a36c7d1e19b9c497672.png",
+    "index.html": "/landingpage/index.html",
+    "main.8409f4e2.css.map": "/landingpage/static/css/main.8409f4e2.css.map",
+    "main.7c69ed93.js.map": "/landingpage/static/js/main.7c69ed93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8409f4e2.css",
+    "static/js/main.7c69ed93.js"
+  ]
+}
